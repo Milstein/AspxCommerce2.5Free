@@ -1,0 +1,16 @@
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame\bin\ServiceInvoker.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame\bin\ServiceInvoker.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\ServiceInvoker\obj\Debug\ServiceInvoker.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\ServiceInvoker\obj\Debug\ServiceInvoker.pdb
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame\bin\ServiceInvoker.dll
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame\bin\ServiceInvoker.pdb
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\ServiceInvoker\obj\Debug\ServiceInvoker.dll
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\ServiceInvoker\obj\Debug\ServiceInvoker.pdb
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame\bin\ServiceInvoker.dll
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame\bin\ServiceInvoker.pdb
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\ServiceInvoker\obj\Debug\ServiceInvoker.dll
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\ServiceInvoker\obj\Debug\ServiceInvoker.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame\bin\ServiceInvoker.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame\bin\ServiceInvoker.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\ServiceInvoker\obj\Debug\ServiceInvoker.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\ServiceInvoker\obj\Debug\ServiceInvoker.pdb

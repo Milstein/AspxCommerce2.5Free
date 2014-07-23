@@ -1,0 +1,20 @@
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame\bin\SageFrame.Localization.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame\bin\SageFrame.Localization.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame.Localization\obj\Debug\SageFrame.Localization.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame.Localization\obj\Debug\SageFrame.Localization.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame.Localization\obj\Debug\SageFrame.Localization.pdb
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame\bin\SageFrame.Localization.dll
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame\bin\SageFrame.Localization.pdb
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame.Localization\obj\Debug\SageFrame.Localization.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame.Localization\obj\Debug\SageFrame.Localization.dll
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame.Localization\obj\Debug\SageFrame.Localization.pdb
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame\bin\SageFrame.Localization.dll
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame\bin\SageFrame.Localization.pdb
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame.Localization\obj\Debug\SageFrame.Localization.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame.Localization\obj\Debug\SageFrame.Localization.dll
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame.Localization\obj\Debug\SageFrame.Localization.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame\bin\SageFrame.Localization.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame\bin\SageFrame.Localization.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.Localization\obj\Debug\SageFrame.Localization.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.Localization\obj\Debug\SageFrame.Localization.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.Localization\obj\Debug\SageFrame.Localization.pdb

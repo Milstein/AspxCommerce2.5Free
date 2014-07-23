@@ -1,0 +1,19 @@
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame\bin\AspxCommerce.ServiceItem.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame\bin\AspxCommerce.ServiceItem.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\AspxCommerce.ServiceItem\obj\Debug\AspxCommerce.ServiceItem.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\AspxCommerce.ServiceItem\obj\Debug\AspxCommerce.ServiceItem.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\AspxCommerce.ServiceItem\obj\Debug\AspxCommerce.ServiceItem.pdb
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame\bin\AspxCommerce.ServiceItem.dll
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame\bin\AspxCommerce.ServiceItem.pdb
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\AspxCommerce.ServiceItem\obj\Debug\AspxCommerce.ServiceItem.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\AspxCommerce.ServiceItem\obj\Debug\AspxCommerce.ServiceItem.dll
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\AspxCommerce.ServiceItem\obj\Debug\AspxCommerce.ServiceItem.pdb
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame\bin\AspxCommerce.ServiceItem.dll
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame\bin\AspxCommerce.ServiceItem.pdb
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.ServiceItem\obj\Debug\AspxCommerce.ServiceItem.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.ServiceItem\obj\Debug\AspxCommerce.ServiceItem.dll
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.ServiceItem\obj\Debug\AspxCommerce.ServiceItem.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame\bin\AspxCommerce.ServiceItem.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame\bin\AspxCommerce.ServiceItem.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.ServiceItem\obj\Debug\AspxCommerce.ServiceItem.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.ServiceItem\obj\Debug\AspxCommerce.ServiceItem.pdb

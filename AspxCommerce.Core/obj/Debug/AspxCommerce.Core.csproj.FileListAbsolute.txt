@@ -1,0 +1,20 @@
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame\bin\AspxCommerce.Core.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame\bin\AspxCommerce.Core.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.pdb
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame\bin\AspxCommerce.Core.dll
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame\bin\AspxCommerce.Core.pdb
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.dll
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.pdb
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame\bin\AspxCommerce.Core.dll
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame\bin\AspxCommerce.Core.pdb
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.dll
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame\bin\AspxCommerce.Core.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame\bin\AspxCommerce.Core.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.pdb

@@ -1,0 +1,17 @@
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame\bin\CurrencyConverter.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame\bin\CurrencyConverter.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\CurrencyConvertor\obj\Debug\CurrencyConverter.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\CurrencyConvertor\obj\Debug\CurrencyConverter.pdb
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame\bin\CurrencyConverter.dll
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame\bin\CurrencyConverter.pdb
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\CurrencyConvertor\obj\Debug\CurrencyConverter.dll
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\CurrencyConvertor\obj\Debug\CurrencyConverter.pdb
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame\bin\CurrencyConverter.dll
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame\bin\CurrencyConverter.pdb
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\CurrencyConvertor\obj\Debug\CurrencyConverter.dll
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\CurrencyConvertor\obj\Debug\CurrencyConverter.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame\bin\CurrencyConverter.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame\bin\CurrencyConverter.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\CurrencyConvertor\obj\Debug\CurrencyConverter.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\CurrencyConvertor\obj\Debug\CurrencyConverter.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\CurrencyConvertor\obj\Debug\CurrencyConverter.pdb

@@ -1,0 +1,19 @@
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame\bin\AspxCommerce.WishItem.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame\bin\AspxCommerce.WishItem.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.pdb
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame\bin\AspxCommerce.WishItem.dll
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame\bin\AspxCommerce.WishItem.pdb
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.dll
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.pdb
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame\bin\AspxCommerce.WishItem.dll
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame\bin\AspxCommerce.WishItem.pdb
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.dll
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame\bin\AspxCommerce.WishItem.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame\bin\AspxCommerce.WishItem.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.WishItem\obj\Debug\AspxCommerce.WishItem.pdb

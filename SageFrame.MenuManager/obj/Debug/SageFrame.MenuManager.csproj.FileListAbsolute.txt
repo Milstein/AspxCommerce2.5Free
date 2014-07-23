@@ -1,0 +1,20 @@
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame\bin\SageFrame.MenuManager.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame\bin\SageFrame.MenuManager.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.pdb
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame\bin\SageFrame.MenuManager.dll
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame\bin\SageFrame.MenuManager.pdb
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.dll
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.pdb
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame\bin\SageFrame.MenuManager.dll
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame\bin\SageFrame.MenuManager.pdb
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.dll
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame\bin\SageFrame.MenuManager.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame\bin\SageFrame.MenuManager.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.MenuManager\obj\Debug\SageFrame.MenuManager.pdb

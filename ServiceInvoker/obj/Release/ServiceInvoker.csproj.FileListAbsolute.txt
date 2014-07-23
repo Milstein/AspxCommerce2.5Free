@@ -1,0 +1,16 @@
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\ServiceInvoker\bin\Release\ServiceInvoker.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\ServiceInvoker\bin\Release\ServiceInvoker.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\ServiceInvoker\obj\Release\ServiceInvoker.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\ServiceInvoker\obj\Release\ServiceInvoker.pdb
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\ServiceInvoker\bin\Release\ServiceInvoker.dll
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\ServiceInvoker\bin\Release\ServiceInvoker.pdb
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\ServiceInvoker\obj\Release\ServiceInvoker.dll
+E:\GitHub Repo\AspxCommerce\BuyNSellNepal\ServiceInvoker\obj\Release\ServiceInvoker.pdb
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\ServiceInvoker\bin\Release\ServiceInvoker.dll
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\ServiceInvoker\bin\Release\ServiceInvoker.pdb
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\ServiceInvoker\obj\Release\ServiceInvoker.dll
+E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\ServiceInvoker\obj\Release\ServiceInvoker.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\ServiceInvoker\bin\Release\ServiceInvoker.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\ServiceInvoker\bin\Release\ServiceInvoker.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\ServiceInvoker\obj\Release\ServiceInvoker.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\ServiceInvoker\obj\Release\ServiceInvoker.pdb
