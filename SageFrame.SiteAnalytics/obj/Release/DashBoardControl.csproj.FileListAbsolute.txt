@@ -24,9 +24,3 @@ E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.SiteAnalyt
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.SiteAnalytics\bin\Release\SageFrame.Common.pdb
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.dll
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.pdb
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.SiteAnalytics\bin\Release\DashBoardControl.dll
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.SiteAnalytics\bin\Release\DashBoardControl.pdb
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.SiteAnalytics\bin\Release\SageFrame.Common.dll
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.SiteAnalytics\bin\Release\SageFrame.Common.pdb
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.dll
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.SiteAnalytics\obj\Release\DashBoardControl.pdb

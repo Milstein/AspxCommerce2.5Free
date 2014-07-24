@@ -24,9 +24,3 @@ E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.ExtractTem
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.ExtractTemplate\bin\Release\SageFrame.Common.pdb
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.ExtractTemplate\obj\Release\SageFrame.ExtractTemplate.dll
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.ExtractTemplate\obj\Release\SageFrame.ExtractTemplate.pdb
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.ExtractTemplate\bin\Release\SageFrame.ExtractTemplate.dll
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.ExtractTemplate\bin\Release\SageFrame.ExtractTemplate.pdb
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.ExtractTemplate\bin\Release\SageFrame.Common.dll
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.ExtractTemplate\bin\Release\SageFrame.Common.pdb
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.ExtractTemplate\obj\Release\SageFrame.ExtractTemplate.dll
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.ExtractTemplate\obj\Release\SageFrame.ExtractTemplate.pdb

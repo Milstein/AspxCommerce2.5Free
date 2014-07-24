@@ -24,9 +24,3 @@ E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.Logo\bin\R
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.Logo\bin\Release\SageFrame.Common.pdb
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.Logo\obj\Release\SageFrame.Logo.dll
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.Logo\obj\Release\SageFrame.Logo.pdb
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.Logo\bin\Release\SageFrame.Logo.dll
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.Logo\bin\Release\SageFrame.Logo.pdb
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.Logo\bin\Release\SageFrame.Common.dll
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.Logo\bin\Release\SageFrame.Common.pdb
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.Logo\obj\Release\SageFrame.Logo.dll
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.Logo\obj\Release\SageFrame.Logo.pdb

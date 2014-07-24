@@ -80,4 +80,3 @@ E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.WishItem\obj\Release\
 E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.WishItem\obj\Release\AspxCommerce.WishItem.dll
 E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.WishItem\obj\Release\AspxCommerce.WishItem.pdb
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.WishItem\obj\Release\AspxCommerce.WishItem.csprojResolveAssemblyReference.cache
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.WishItem\obj\Release\AspxCommerce.WishItem.csprojResolveAssemblyReference.cache

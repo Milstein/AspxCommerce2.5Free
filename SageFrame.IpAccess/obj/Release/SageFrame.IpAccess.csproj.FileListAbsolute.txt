@@ -24,9 +24,3 @@ E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.IpAccess\b
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.IpAccess\bin\Release\SageFrame.Common.pdb
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.IpAccess\obj\Release\SageFrame.IpAccess.dll
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.IpAccess\obj\Release\SageFrame.IpAccess.pdb
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.IpAccess\bin\Release\SageFrame.IpAccess.dll
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.IpAccess\bin\Release\SageFrame.IpAccess.pdb
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.IpAccess\bin\Release\SageFrame.Common.dll
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.IpAccess\bin\Release\SageFrame.Common.pdb
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.IpAccess\obj\Release\SageFrame.IpAccess.dll
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.IpAccess\obj\Release\SageFrame.IpAccess.pdb

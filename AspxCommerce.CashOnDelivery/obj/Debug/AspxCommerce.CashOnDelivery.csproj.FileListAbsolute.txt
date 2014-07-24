@@ -22,6 +22,6 @@ E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.CashOnD
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame\bin\AspxCommerce.CashOnDelivery.dll.config
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame\bin\AspxCommerce.CashOnDelivery.dll
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame\bin\AspxCommerce.CashOnDelivery.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.CashOnDelivery\obj\Debug\AspxCommerce.CashOnDelivery.csprojResolveAssemblyReference.cache
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.CashOnDelivery\obj\Debug\AspxCommerce.CashOnDelivery.dll
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.CashOnDelivery\obj\Debug\AspxCommerce.CashOnDelivery.pdb
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.CashOnDelivery\obj\Debug\AspxCommerce.CashOnDelivery.csprojResolveAssemblyReference.cache

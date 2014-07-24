@@ -2,4 +2,3 @@ E:\GitHub Repo\AspxCommerce\!@TO Compare\compare\Again\AspxCommerce.RealTimeCart
 E:\GitHub Repo\AspxCommerce\BuyNSellNepal\AspxCommerce.RealTimeCartMgnt\obj\Release\AspxCommerce.RealTimeCartManagement.csprojResolveAssemblyReference.cache
 E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.RealTimeCartMgnt\obj\Release\AspxCommerce.RealTimeCartManagement.csprojResolveAssemblyReference.cache
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.RealTimeCartMgnt\obj\Release\AspxCommerce.RealTimeCartManagement.csprojResolveAssemblyReference.cache
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.RealTimeCartMgnt\obj\Release\AspxCommerce.RealTimeCartManagement.csprojResolveAssemblyReference.cache

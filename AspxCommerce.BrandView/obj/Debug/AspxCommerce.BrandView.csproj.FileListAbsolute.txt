@@ -19,6 +19,6 @@ E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.BrandVi
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.BrandView\obj\Debug\AspxCommerce.BrandView.pdb
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame\bin\AspxCommerce.BrandView.dll
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame\bin\AspxCommerce.BrandView.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.BrandView\obj\Debug\AspxCommerce.BrandView.csprojResolveAssemblyReference.cache
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.BrandView\obj\Debug\AspxCommerce.BrandView.dll
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.BrandView\obj\Debug\AspxCommerce.BrandView.pdb
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.BrandView\obj\Debug\AspxCommerce.BrandView.csprojResolveAssemblyReference.cache

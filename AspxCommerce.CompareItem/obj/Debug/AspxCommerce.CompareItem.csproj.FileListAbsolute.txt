@@ -19,6 +19,6 @@ E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.Compare
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.pdb
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame\bin\AspxCommerce.CompareItem.dll
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame\bin\AspxCommerce.CompareItem.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.csprojResolveAssemblyReference.cache
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.dll
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.pdb
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.CompareItem\obj\Debug\AspxCommerce.CompareItem.csprojResolveAssemblyReference.cache

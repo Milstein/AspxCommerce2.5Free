@@ -19,6 +19,6 @@ E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.LatestI
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.LatestItems\obj\Debug\AspxCommerce.LatestItems.pdb
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame\bin\AspxCommerce.LatestItems.dll
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame\bin\AspxCommerce.LatestItems.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.LatestItems\obj\Debug\AspxCommerce.LatestItems.csprojResolveAssemblyReference.cache
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.LatestItems\obj\Debug\AspxCommerce.LatestItems.dll
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.LatestItems\obj\Debug\AspxCommerce.LatestItems.pdb
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.LatestItems\obj\Debug\AspxCommerce.LatestItems.csprojResolveAssemblyReference.cache

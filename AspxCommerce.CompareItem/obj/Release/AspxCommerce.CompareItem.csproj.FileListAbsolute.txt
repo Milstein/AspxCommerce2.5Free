@@ -80,4 +80,3 @@ E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.CompareItem\obj\Relea
 E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.CompareItem\obj\Release\AspxCommerce.CompareItem.dll
 E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.CompareItem\obj\Release\AspxCommerce.CompareItem.pdb
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.CompareItem\obj\Release\AspxCommerce.CompareItem.csprojResolveAssemblyReference.cache
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.CompareItem\obj\Release\AspxCommerce.CompareItem.csprojResolveAssemblyReference.cache

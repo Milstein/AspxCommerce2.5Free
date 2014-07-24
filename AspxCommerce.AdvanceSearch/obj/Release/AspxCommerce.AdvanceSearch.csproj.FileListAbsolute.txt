@@ -80,4 +80,3 @@ E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.AdvanceSearch\obj\Rel
 E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.AdvanceSearch\obj\Release\AspxCommerce.AdvanceSearch.dll
 E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.AdvanceSearch\obj\Release\AspxCommerce.AdvanceSearch.pdb
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.AdvanceSearch\obj\Release\AspxCommerce.AdvanceSearch.csprojResolveAssemblyReference.cache
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.AdvanceSearch\obj\Release\AspxCommerce.AdvanceSearch.csprojResolveAssemblyReference.cache

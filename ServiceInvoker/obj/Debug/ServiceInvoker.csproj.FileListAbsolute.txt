@@ -16,6 +16,6 @@ E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\ServiceInvoker\obj\D
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\ServiceInvoker\obj\Debug\ServiceInvoker.pdb
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame\bin\ServiceInvoker.dll
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame\bin\ServiceInvoker.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\ServiceInvoker\obj\Debug\ServiceInvoker.csprojResolveAssemblyReference.cache
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\ServiceInvoker\obj\Debug\ServiceInvoker.dll
 E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\ServiceInvoker\obj\Debug\ServiceInvoker.pdb
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\ServiceInvoker\obj\Debug\ServiceInvoker.csprojResolveAssemblyReference.cache
