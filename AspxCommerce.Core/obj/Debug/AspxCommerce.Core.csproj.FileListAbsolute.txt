@@ -8,18 +8,18 @@ E:\GitHub Repo\AspxCommerce\BuyNSellNepal\SageFrame\bin\AspxCommerce.Core.pdb
 E:\GitHub Repo\AspxCommerce\BuyNSellNepal\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.csprojResolveAssemblyReference.cache
 E:\GitHub Repo\AspxCommerce\BuyNSellNepal\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.dll
 E:\GitHub Repo\AspxCommerce\BuyNSellNepal\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.pdb
-E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame\bin\AspxCommerce.Core.dll
-E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame\bin\AspxCommerce.Core.pdb
-E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.csprojResolveAssemblyReference.cache
-E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.dll
-E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.pdb
-E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame\bin\AspxCommerce.Core.dll
-E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame\bin\AspxCommerce.Core.pdb
-E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.csprojResolveAssemblyReference.cache
-E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.dll
-E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.pdb
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame\bin\AspxCommerce.Core.dll
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame\bin\AspxCommerce.Core.pdb
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.csprojResolveAssemblyReference.cache
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.dll
-E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\Ratamata\SageFrame\bin\AspxCommerce.Core.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\Ratamata\SageFrame\bin\AspxCommerce.Core.pdb
+E:\GitHub Repo\AspxCommerce\!@TO Compare\Ratamata\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@TO Compare\Ratamata\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.dll
+E:\GitHub Repo\AspxCommerce\!@TO Compare\Ratamata\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.pdb
+E:\!@Jobs Hunting\BrainDigit Job\AspxCommerce\!@July Latest Final\!@Ratamata\SageFrame\bin\AspxCommerce.Core.dll
+E:\!@Jobs Hunting\BrainDigit Job\AspxCommerce\!@July Latest Final\!@Ratamata\SageFrame\bin\AspxCommerce.Core.pdb
+E:\!@Jobs Hunting\BrainDigit Job\AspxCommerce\!@July Latest Final\!@Ratamata\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.csprojResolveAssemblyReference.cache
+E:\!@Jobs Hunting\BrainDigit Job\AspxCommerce\!@July Latest Final\!@Ratamata\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.dll
+E:\!@Jobs Hunting\BrainDigit Job\AspxCommerce\!@July Latest Final\!@Ratamata\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@Ratamata\SageFrame\bin\AspxCommerce.Core.dll
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@Ratamata\SageFrame\bin\AspxCommerce.Core.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@Ratamata\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@Ratamata\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.dll
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@Ratamata\AspxCommerce.Core\obj\Debug\AspxCommerce.Core.pdb
