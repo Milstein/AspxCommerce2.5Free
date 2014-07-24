@@ -80,3 +80,4 @@ E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.AdminNotification\obj
 E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.AdminNotification\obj\Release\AspxCommerce.AdminNotification.dll
 E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.AdminNotification\obj\Release\AspxCommerce.AdminNotification.pdb
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.AdminNotification\obj\Release\AspxCommerce.AdminNotification.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.AdminNotification\obj\Release\AspxCommerce.AdminNotification.csprojResolveAssemblyReference.cache

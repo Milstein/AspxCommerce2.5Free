@@ -57,3 +57,4 @@ E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame.Localization\obj\Release
 E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame.Localization\obj\Release\SageFrame.Localization.dll
 E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\SageFrame.Localization\obj\Release\SageFrame.Localization.pdb
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\SageFrame.Localization\obj\Release\SageFrame.Localization.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\SageFrame.Localization\obj\Release\SageFrame.Localization.csprojResolveAssemblyReference.cache

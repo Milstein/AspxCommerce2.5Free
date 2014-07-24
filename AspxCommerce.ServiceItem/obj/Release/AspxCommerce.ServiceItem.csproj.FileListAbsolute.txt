@@ -80,3 +80,4 @@ E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.ServiceItem\obj\Relea
 E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.ServiceItem\obj\Release\AspxCommerce.ServiceItem.dll
 E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.ServiceItem\obj\Release\AspxCommerce.ServiceItem.pdb
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.ServiceItem\obj\Release\AspxCommerce.ServiceItem.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.ServiceItem\obj\Release\AspxCommerce.ServiceItem.csprojResolveAssemblyReference.cache

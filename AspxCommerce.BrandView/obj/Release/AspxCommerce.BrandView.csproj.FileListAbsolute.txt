@@ -80,3 +80,4 @@ E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.BrandView\obj\Release
 E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.BrandView\obj\Release\AspxCommerce.BrandView.dll
 E:\GitHub Repo\AspxCommerce\!@AspxCommerce3.0\AspxCommerce.BrandView\obj\Release\AspxCommerce.BrandView.pdb
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\AspxCommerce.BrandView\obj\Release\AspxCommerce.BrandView.csprojResolveAssemblyReference.cache
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\AspxCommerce.BrandView\obj\Release\AspxCommerce.BrandView.csprojResolveAssemblyReference.cache

@@ -14,3 +14,7 @@ E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\ServiceInvoker\bin\R
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\ServiceInvoker\bin\Release\ServiceInvoker.pdb
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\ServiceInvoker\obj\Release\ServiceInvoker.dll
 E:\GitHub Repo\AspxCommerce\!@TO Compare\!@AspxCommerceFree\ServiceInvoker\obj\Release\ServiceInvoker.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\ServiceInvoker\bin\Release\ServiceInvoker.dll
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\ServiceInvoker\bin\Release\ServiceInvoker.pdb
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\ServiceInvoker\obj\Release\ServiceInvoker.dll
+E:\GitHub Repo\AspxCommerce\!@July Latest Final\!@AspxCommerceFree\ServiceInvoker\obj\Release\ServiceInvoker.pdb
